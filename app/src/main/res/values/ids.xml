@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="confirmButton" type="id">confirmButton</item>
+    <item name="cancelButton" type="id">cancelButton</item>
+    <item name="distanceInput" type="id">distance_Input</item>
+    <item name="dialogTitle" type="id">dialog</item>
+    <item name="timeInput" type="id">time</item>
+</resources>

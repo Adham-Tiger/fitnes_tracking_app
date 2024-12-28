@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Newest</string>
+    <string name="pop_up_notification">Pop-up Notification</string>
+    <string name="plus">+</string>
+    <string name="calories">calories</string>
+    <string name="intial_val">0</string>
+
+</resources>

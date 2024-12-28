@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryTextColor">#2C2C54</color> <!-- Dark Navy -->
+    <color name="secondaryTextColor">#A6A6B2</color> <!-- Light Gray -->
+    <color name="caloriesCardColor">#FFF8E1</color> <!-- Light Yellow -->
+    <color name="stepsCardColor">#E3F2FD</color> <!-- Light Blue -->
+    <color name="sleepCardColor">#E8F5E9</color> <!-- Light Green -->
+    <color name="waterCardColor">#E1F5FE</color> <!-- Very Light Blue -->
+    <color name="backgroundColor">#F9F9F9</color>
+    <color name="accentColor">#00B4D8</color> <!-- Bright Aqua -->
+    <color name="profile_background">#F5F5F5</color>
+    <color name="light_blue">#E3F2FD</color>
+    <color name="blue">#2196F3</color>
+    <color name="text_secondary">#FFFFFF</color>
+    <color name="icon_color">#757575</color>
+    <color name="divider">#EEEEEE</color>
+
+</resources>
